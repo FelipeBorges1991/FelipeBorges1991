@@ -46,6 +46,8 @@ Here are a few things I've picked up along my learning journey.
 
   ## Recent Works
 
+- [Let's Play - Social Media for gamers](https://lets-play-iron.netlify.app/) - Created as a Fullstack project at Ironhack's Bootcamp campus São Paulo in May/2021.
+Using MERN, Bootstrap and other libraries.
 - [CheapUp - Games with discounts](https://cheapup.netlify.app/) - Created as a FrontEnd project at Ironhack's Bootcamp campus São Paulo in April/2021. Using APIs integrations, React JavaScript, Bootstrap and other libraries.
 - [Harry Potter - The Game](https://felipeborges1991.github.io/Projeto_Game/) - Game built in HTML, CSS and JavaScript as part of an Ironhack project.
 
