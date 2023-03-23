@@ -1,6 +1,6 @@
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Hi, I am Felipe Borges 👨‍💻
 
-I am an Application Development Salesforce Analyst, graduated at Ironhack Bootcamp of Web Development(Full Time). Currently working for Accenture Brazil.
+I am an Application Development Salesforce Analyst, graduated at Ironhack Bootcamp of Web Development(Full Time). Currently working at Accenture Brazil.
 
 
 ## :books: Tech Stack
