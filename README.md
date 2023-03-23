@@ -1,8 +1,6 @@
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Hi, I am Felipe Borges 👨‍💻
 
-I am a Full Stack Developer, graduated at Ironhack Bootcamp of Web Development(Full Time). I am passionate about technologies and love to learn new things.
-
-#### :mag: I’m currently looking for new opportunities .
+I am an Application Development Salesforce Analyst, graduated at Ironhack Bootcamp of Web Development(Full Time). Currently working for Accenture Brazil.
 
 
 ## :books: Tech Stack
